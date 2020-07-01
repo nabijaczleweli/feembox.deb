@@ -1,1 +1,10 @@
+v0.1.1          Smells like it's the nineties again
+    
+    Fixed:
+      * Redelivery of entries with non-ASCII names
+    
+    Changed:
+      * options::alternatives_transformations_arg to a static
+
+
 v0.1.0          Initial release
