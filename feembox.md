@@ -90,13 +90,14 @@ feembox(1) -- What if a feed, but it's a mailbox?
 
 ## AUTHOR
 
-Written by наб &lt;<nabijaczleweli@gmail.com>&gt;
+Written by наб &lt;<nabijaczleweli@nabijaczleweli.xyz>&gt;
 
 ## SPECIAL THANKS
 
 To all who support further development, in particular:
 
   * ThePhD
+  * Embark Studios
 
 ## REPORTING BUGS
 
